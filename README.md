@@ -9,7 +9,7 @@
   <hr size="3" noshade>
 
   <h3>studying</h3>
-  <p><strong><em>student in hashemite university</em></strong></p><br>
+  <p><strong><em>student in Hashemite University</em></strong></p><br>
   <hr size="2" noshade>
 
   <! --jjjj -->
