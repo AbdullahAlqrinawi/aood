@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>ABDULLAH ALQRINAWI</h1> 
-  <img src="C:\Users\abdul\Desktop\htmlProject\AbdullahALQrinawi-1.png" alt="abdullah "> 
+  <img src="https://raw.githubusercontent.com/AbdullahAlqrinawi/aood/main/AbdullahALQrinawi-1.png" alt="abdullah "> 
   <hr size="3" noshade>
 
   <h3>studying</h3>
